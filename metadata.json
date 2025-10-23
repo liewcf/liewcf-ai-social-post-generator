@@ -1,0 +1,5 @@
+{
+  "name": "Social Post Generator",
+  "description": "An application to generate engaging social media posts and accompanying images from user-provided content using AI.",
+  "requestFramePermissions": []
+}
